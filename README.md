@@ -17,6 +17,7 @@ Some become products. Some become open source. Some are just strange enough to k
 - Contributed [`bd rules audit` and `bd rules compact`](https://github.com/gastownhall/beads/pull/2810) to Beads, adding contradiction and duplication analysis for agent rule files.
 - Contributed [first-class specification linking](https://github.com/gastownhall/beads/pull/1372) to Beads through `spec_id`, `--spec-id`, and spec-based filtering.
 - Contributed a CLI fix to **[obra/superpowers-chrome](https://github.com/obra/superpowers-chrome/pull/37)**. The maintainer manually squash-accepted it with co-authorship and kept the fake-browser argument test as a useful regression pattern.
+- Contributed [Xcode Coding Assistant session discovery](https://github.com/vshulcz/deja-vu/pull/3467) to Deja Vu, bringing Codex and Claude conversations stored by Xcode into terminal search and history.
 
 Code has bugs. Prose has intent. I like working somewhere in the friction between them.
 
