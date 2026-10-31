@@ -21,6 +21,12 @@ Some become products. Some become open source. Some are just strange enough to k
 
 Code has bugs. Prose has intent. I like working somewhere in the friction between them.
 
+## writing
+
+I write about software, technology and the occasional absurdity of being online.
+
+[Writing archive](https://anupamchugh.github.io/posts/) · [Medium](https://medium.com/@anupamchugh) · [Big Tech on Substack](https://thebigtech.substack.com/) · [Humor Bytes](https://humorbytes.substack.com/)
+
 ## elsewhere
 
-[Product Hunt](https://www.producthunt.com/@anupam_chugh) · [X](https://x.com/chughgpt) · [links](https://linktr.ee/anupamchugh)
+[Website](https://anupamchugh.github.io/) · [Showcase](https://anupamchugh.github.io/showcase/) · [LinkedIn](https://www.linkedin.com/in/anupamchugh/) · [Product Hunt](https://www.producthunt.com/@anupam_chugh) · [X](https://x.com/chughgpt) · [links](https://linktr.ee/anupamchugh)
