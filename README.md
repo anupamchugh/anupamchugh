@@ -6,6 +6,8 @@ Some become products. Some become open source. Some are just strange enough to k
 
 ## a few sparks
 
+- **[Alcor](https://getalcor.com/)** — my independent app studio, making small Apple apps that can hand work to each other.
+- **[MacItWork](https://macit.work/)** — an early Mac app using Apple Intelligence to plan bounded work, ask for approval, and record a signed receipt.
 - **[Machiss](https://github.com/anupamchugh/match-box)** — a private, local Mac companion for thinking through conversations without swiping, sending, or quietly shipping them to a cloud. It recently found its way to **[Product Hunt](https://www.producthunt.com/products/mathis-s)**.
 - **[Pastport](https://github.com/anupamchugh/pastport)** — on-device Safari history intelligence for finding travel trails, bookings, threads, and trackers. Your browser history knows where you have been. This helps you read it.
 - **[iOS14VisionHandPose](https://github.com/anupamchugh/iOS14VisionHandPose)** — a card stack controlled with a thumbs-up or thumbs-down. Social distancing, but for touchscreens.
