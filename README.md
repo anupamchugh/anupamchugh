@@ -1,8 +1,8 @@
 # hi, i'm anupam
 
-I take small human moments to the App Store. **19 apps live, 65 approved releases since December 2025**, made solo under my studio, [Alcor](https://getalcor.com/): research, design, build, App Review, launch.
+I build apps and write about them. Sometimes funny. Good at helping manage engineers, better with engineering managers.
 
-Before that I ran [Better Programming](https://medium.com/better-programming), one of Medium's biggest programming publications: 4,600 authors, 151 million views, close to $1M paid to writers. Editing taught me product: read everything, decide what's ready, help the rest get there.
+**19 apps live on the App Store, 65 approved releases since December 2025**, made solo under my studio, [Alcor](https://getalcor.com/): research, design, build, App Review, launch. Now building [TradeShot](https://tradeshot.co), a calmer way to trade consciously: every move explained from evidence, and nothing places an order without your approval.
 
 I was a reluctant engineer. I wanted to make films and play cricket, and my first app earned $2. I'm still here.
 
