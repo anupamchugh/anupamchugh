@@ -4,6 +4,15 @@ I build apps and write about them. Sometimes funny. Good at helping manage engin
 
 **19 apps live on the App Store, 65 approved releases since December 2025**, made solo under my studio, [Alcor](https://getalcor.com/): research, design, build, App Review, launch. Now building [TradeShot](https://tradeshot.co), a calmer way to trade consciously: every move explained from evidence, and nothing places an order without your approval.
 
+<p>
+<a href="https://getalcor.com/breakline/"><img src="https://getalcor.com/img/screens/breakline-sports-tab.webp" width="15%" alt="Breakline: read the kick at contact"></a>
+<a href="https://getalcor.com/wardrobe/"><img src="https://getalcor.com/img/screens/wearover-linen-fitted.webp" width="15%" alt="Wearover: a shirt redrawn, face kept"></a>
+<a href="https://getalcor.com/screen-room/"><img src="https://getalcor.com/img/screens/screen-room-home.webp" width="15%" alt="Screen Room: film shelves"></a>
+<a href="https://getalcor.com/orbits/"><img src="https://getalcor.com/img/screens/orbits-plan.webp" width="15%" alt="Orbits: where to?"></a>
+<a href="https://getalcor.com/mirror-hand/"><img src="https://getalcor.com/img/screens/mirror-hand-finger-bend.webp" width="15%" alt="Mirror Hand: a robot hand copies yours"></a>
+<a href="https://github.com/anupamchugh/trayce"><img src="https://raw.githubusercontent.com/anupamchugh/trayce/main/docs/screens/trip.png" width="15%" alt="Trayce: your trip, always the latest copy"></a>
+</p>
+
 I was a reluctant engineer. I wanted to make films and play cricket, and my first app earned $2. I'm still here.
 
 ## shipping now
@@ -23,6 +32,7 @@ Every Apple Intelligence feature I ship answers from what the app actually measu
 ## in the open
 
 - **[iowncode](https://github.com/anupamchugh/iowncode)**: years of iOS, SwiftUI, Core ML, Vision and AR experiments. 900+ stars. More drawer of sparks than museum.
+- **[Trayce](https://github.com/anupamchugh/trayce)**: your trip, always the latest copy; your trays, planned before the X-ray. An open-source iOS 27 app on Apple frameworks.
 - **[Deckloom](https://github.com/anupamchugh/Deckloom)**: a SwiftUI card stack you can swipe, fan and open full screen.
 - **[Pastport](https://github.com/anupamchugh/pastport)**: on-device Safari history intelligence for macOS. Your browser knows where you've been; this helps you read it.
 - **[iOS14VisionHandPose](https://github.com/anupamchugh/iOS14VisionHandPose)**: a card stack you swipe with a thumbs-up. The ancestor of Orbits' swipe.
