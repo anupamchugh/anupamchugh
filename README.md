@@ -27,7 +27,7 @@ Where these apps use Apple Intelligence, the model only phrases answers; the num
 
 ## in the open
 
-- **[Scout](https://github.com/anupamchugh/Scout)**: a writer and story scouting app for editors, built on public RSS feeds, with on-device AI to help draft newsletter copy.
+- **[Scout](https://github.com/anupamchugh/Scout)**: Claude helped me revisit a tool I built to scout Medium stories and authors for outreach and newsletter marketing. It now uses public RSS feeds and a bit of on-device AI.
 - **[Trayce](https://github.com/anupamchugh/trayce)**: an iOS 27 app that keeps the latest copy of your trip documents and plans your security trays.
 - **[Contour Lab](https://github.com/anupamchugh/iOS14VisionContourDetection)**: counts coins, leaves and odd shapes with Vision, measures a surfboard from one photo, and lays the count out in RealityKit.
 - **[Screen Room Remote](https://github.com/anupamchugh/ScreenRoomRemote)**: a Mac prototype that drives a Fire TV.
