@@ -2,7 +2,7 @@
 
 I build apps and write about them. Sometimes funny. Good at helping manage engineers, better with engineering managers.
 
-I started on Android in 2014, moved to iOS, and now make small Apple apps on my own under [Alcor](https://getalcor.com/). Before that: delivery apps for a Gold Coast startup, a crop-inspection camera, and editing Better Programming from 2021 to 2023.
+I started on Android in 2014, moved to iOS, and now make apps on my own under [Alcor](https://getalcor.com/), a studio of apps from fintech to music and sports. Before that: delivery apps for a Gold Coast startup, a crop-inspection camera, and editing Better Programming from 2021 to 2023.
 
 I was a reluctant engineer. I wanted to make films and play cricket, and my first app earned $2. I'm still here.
 
@@ -13,7 +13,7 @@ I was a reluctant engineer. I wanted to make films and play cricket, and my firs
 - **[Orbits](https://apps.apple.com/app/id6759101340)**: plan a trip or a meetup around what two people have in common.
 - **[Rifflet](https://apps.apple.com/app/id6767064984)**: turn a music idea into a lesson you can play.
 - **[First Contact Duet](https://apps.apple.com/app/id6818777737)**: two phones, one friendly visitor you greet with hand signs and chords.
-- **[Wearover](https://getalcor.com/wardrobe/)**: change the clothes in a photo of you and keep your face as it is. 3.0 is waiting on App Review.
+- **[Wearover](https://getalcor.com/wardrobe/)**: styles your wardrobe around your own choices and looks, and tries hair or a furniture finish too, while your face stays as it is. 3.0 is waiting on App Review.
 
 The rest are on [getalcor.com](https://getalcor.com/).
 
@@ -21,6 +21,7 @@ The rest are on [getalcor.com](https://getalcor.com/).
 
 - **[MacItWork](https://macit.work/)**: hand approved work from one Mac to another and get a signed receipt back. Early.
 - **Glint**, part of [TradeShot](https://tradeshot.co): a trading desk that shows where each number came from. It can draft a trade; it can't place one without my approval.
+- **[MeAmi Stays](https://meamistays.com/)**: a booking assistant I built for my landlord, so they have more control and flexibility over bookings for their homes. iOS, Android and the web.
 - **[Machiss](https://github.com/anupamchugh/match-box)**: a private, local Mac companion for thinking through conversations. On [Product Hunt](https://www.producthunt.com/products/mathis-s).
 
 Where these apps use Apple Intelligence, the model only phrases answers; the numbers come from the app, and Swift checks the reply before you see it.
@@ -35,7 +36,7 @@ Where these apps use Apple Intelligence, the model only phrases answers; the num
 - **[Deckloom](https://github.com/anupamchugh/Deckloom)**: a SwiftUI card stack you can swipe, fan and open full screen.
 - **[iowncode](https://github.com/anupamchugh/iowncode)**: older iOS, Core ML, Vision and AR experiments. More drawer of sparks than museum.
 
-Small merged contributions: [rules audit](https://github.com/gastownhall/beads/pull/2810) and [spec linking](https://github.com/gastownhall/beads/pull/1372) in Beads, [Xcode session search](https://github.com/vshulcz/deja-vu/pull/3467) in deja-vu, and a [CLI fix](https://github.com/obra/superpowers-chrome/pull/37) in superpowers-chrome.
+Merged contributions: [spec linking](https://github.com/gastownhall/beads/pull/1372) (each issue points to its spec) and a [rules audit](https://github.com/gastownhall/beads/pull/2810) in Beads; [Xcode session search](https://github.com/vshulcz/deja-vu/pull/3467) and [Amp thread filing](https://github.com/vshulcz/deja-vu/pull/5673) in deja-vu; [Grok usage](https://github.com/steipete/CodexBar/pull/3159) in CodexBar; [precise location](https://github.com/callstack/agent-device/pull/491) in Callstack's agent-device; [research mode](https://github.com/steipete/birdclaw/pull/12) in birdclaw; and a [CLI fix](https://github.com/obra/superpowers-chrome/pull/37) in superpowers-chrome.
 
 These days I work with AI coding agents the way I ran editors: written briefs, one writes, another reviews.
 
